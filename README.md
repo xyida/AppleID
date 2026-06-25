@@ -14,12 +14,12 @@
 全美共有五个州免消费税，分别是Oregon（俄勒冈州），Alaska（阿拉斯加州），Delaware（特拉华州），Montana（蒙大拿州）和New Hampshire（新罕布什尔州）。 
 
 ### 地址示例
-Oregon（俄勒冈州）
-楼道：201
-街道：1824 Forest Drive
-城市：SUBLIMITY
-省市：俄勒冈州
-邮编：97385
+Oregon（俄勒冈州）<br/>
+楼道：201<br/>
+街道：1824 Forest Drive<br/>
+城市：SUBLIMITY<br/>
+省市：俄勒冈州<br/>
+邮编：97385<br/>
 电话：7039063501
 
 ### 如何购买美区 Apple Store 里的APP？
